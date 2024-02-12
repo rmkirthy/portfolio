@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #fbb3c6;
+    background-color: grey;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -26,7 +26,7 @@ body{
 }
 
 .heading span{
-    color: yellow;
+    color: black;
 }
 
 .title{
@@ -48,7 +48,7 @@ body{
     font-size: 4rem;
     padding-top: 5rem;
     border-bottom: .1rem solid #fff4;
-    color: #fff;
+    color: black;
 }
 .head span{
     color: black;
@@ -116,7 +116,7 @@ header .nv ul li a{
     text-decoration: none;  
 }
 header .nv ul li a:hover{
-    background-color:yellowgreen;
+    background-color:black;
 }
 
 .Details .Row{
@@ -145,15 +145,15 @@ header .nv ul li a:hover{
     padding: 0. 5rem;
 }
 table,th,td{
-    border: 1px solid yellow;
+    border: 1px solid black;
     border-collapse: collapse;
 }
 td{
-    color: white;
+    color: black;
     padding: 1rem;
 }
 th{
-    color: white;
+    color: black;
     padding: 1rem;
 }
 table{
@@ -166,7 +166,7 @@ table{
 }
 #lis li{
     margin: 0 9rem;
-    color: white;
+    color: black;
     font-size: 2rem;
     padding: .5rem 1rem;
 }
@@ -186,7 +186,7 @@ table{
 
 .Project .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: black;
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -211,7 +211,7 @@ table{
 
 .Certi .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: black;
     padding: 1rem 0;
     font-weight: normal;
 }
@@ -236,7 +236,7 @@ table{
 
 .Achi .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: black;
     padding: 1rem 0;
     font-weight: normal;
 }
