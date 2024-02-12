@@ -21,7 +21,7 @@ body{
     margin: 0 6rem;
     font-size: 4rem;
     padding-top: 6rem;
-    border-bottom: .1rem solid #fff4;
+    border-bottom: .1rem solid black;
     color: black;
 }
 
@@ -34,7 +34,7 @@ body{
     margin: 0 6rem;
     font-size: 4rem;
     padding-top: 6rem;
-    border-bottom: .1rem solid #fff4;
+    border-bottom: .1rem solid black;
     color: black;
 }
 
@@ -47,7 +47,7 @@ body{
     margin: 0 6rem;
     font-size: 4rem;
     padding-top: 5rem;
-    border-bottom: .1rem solid #fff4;
+    border-bottom: .1rem solid black;
     color: black;
 }
 .head span{
@@ -58,7 +58,7 @@ body{
     margin: 0 6rem;
     font-size: 4rem;
     padding-top: 5rem;
-    border-bottom: .1rem solid #fff4;
+    border-bottom: .1rem solid black;
     color: black;
 }
 .pro span{
@@ -116,7 +116,7 @@ header .nv ul li a{
     text-decoration: none;  
 }
 header .nv ul li a:hover{
-    background-color:black;
+    background-color:#e1e0e0;
 }
 
 .Details .Row{
@@ -161,7 +161,7 @@ table{
     margin: 0 6rem;
     font-size: 2rem;
     padding: 1rem;
-    border-bottom: .1rem solid #fff4;
+    border-bottom: .1rem solid black;
     color: #fff;
 }
 #lis li{
