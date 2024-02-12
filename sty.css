@@ -11,7 +11,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: #111;
+    background-color: #e0e0e0;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -39,7 +39,7 @@ body{
 }
 
 .title span{
-    color: yellow;
+    color: black;
 }
 
 .head{
@@ -51,7 +51,7 @@ body{
     color: #fff;
 }
 .head span{
-    color: yellow;
+    color: black;
 }
 .pro{
     text-align: center;
@@ -62,7 +62,7 @@ body{
     color: #fff;
 }
 .pro span{
-    color: yellow;
+    color: black;
 }
 header{
     position:fixed;
