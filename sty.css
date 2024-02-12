@@ -22,7 +22,7 @@ body{
     font-size: 4rem;
     padding-top: 6rem;
     border-bottom: .1rem solid #fff4;
-    color: #fff;
+    color: black;
 }
 
 .heading span{
@@ -35,7 +35,7 @@ body{
     font-size: 4rem;
     padding-top: 6rem;
     border-bottom: .1rem solid #fff4;
-    color: #fff;
+    color: black;
 }
 
 .title span{
@@ -59,7 +59,7 @@ body{
     font-size: 4rem;
     padding-top: 5rem;
     border-bottom: .1rem solid #fff4;
-    color: #fff;
+    color: black;
 }
 .pro span{
     color: black;
@@ -71,7 +71,7 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background:#1a1a1a;
+    background:#e1e0e0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -89,12 +89,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: #fff;
+    color: black;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: #fff;
+    color: black;
 }
 
 header .nv{
@@ -109,8 +109,8 @@ header .nv ul li a{
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background: #333;
-    color: #fff;
+    background: #e1e0e0;
+    color: black;
     font-size: 2rem;
     border-radius: 5rem;
     text-decoration: none;  
