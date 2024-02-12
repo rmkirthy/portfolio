@@ -141,7 +141,7 @@ header .nv ul li a:hover{
 }
 
 .Details .Row .det h3 span{
-    color: #eee;
+    color: black;
     padding: 0. 5rem;
 }
 table,th,td{
@@ -162,7 +162,7 @@ table{
     font-size: 2rem;
     padding: 1rem;
     border-bottom: .1rem solid black;
-    color: #fff;
+    color: black;
 }
 #lis li{
     margin: 0 9rem;
@@ -192,7 +192,7 @@ table{
 }
 
 .Project .Row .det h3 span{
-    color: #eee;
+    color: black;
     padding: 0. 5rem;
 }
 .Certi .Row{
@@ -217,7 +217,7 @@ table{
 }
 
 .Certi .Row .det h3 span{
-    color: #eee;
+    color: black;
     padding: 0. 5rem;
 }
 .Achi .Row{
@@ -242,6 +242,6 @@ table{
 }
 
 .Achi .Row .det h3 span{
-    color: #eee;
+    color: black;
     padding: 0. 5rem;
 }
